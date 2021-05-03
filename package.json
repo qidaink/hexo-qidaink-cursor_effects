@@ -1,6 +1,6 @@
 {
   "name": "hexo-qidaink-cursor_effects",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The cursor effects of Cloud and Sea.",
   "main": "index.js",
   "scripts": {
