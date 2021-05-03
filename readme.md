@@ -64,39 +64,39 @@ ClickShowText:
     </tr>
     <tr>
         <td align="center">fireWorks</td>
-        <td align="center"><img src="./images/fireWorks.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/fireWorks.png" ></td>
     </tr>
     <tr>
         <td align="center">showLove</td>
-        <td align="center"><img src="./images/showLove.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/showLove.png" ></td>
     </tr>
     <tr>
         <td align="center">showText</td>
-        <td align="center"><img src="./images/showText.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/showText.png" ></td>
     </tr>
     <tr>
         <td align="center">bubble</td>
-        <td align="center"><img src="./images/bubble.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/bubble.png" ></td>
     </tr>
     <tr>
         <td align="center">emoji</td>
-        <td align="center"><img src="./images/emoji.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/emoji.png" ></td>
     </tr>
     <tr>
         <td align="center">fairyDust</td>
-        <td align="center"><img src="./images/fairyDust.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/fairyDust.png" ></td>
     </tr>
     <tr>
         <td align="center">ghost</td>
-        <td align="center"><img src="./images/ghost.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/ghost.png" ></td>
     </tr>
     <tr>
         <td align="center">snowflake</td>
-        <td align="center"><img src="./images/snowflake.png" ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/snowflake.png" ></td>
     </tr>
     <tr>
         <td align="center">springyEmoji</td>
-        <td align="center"><img src="./images/springyEmoji.png"  ></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/npm/hexo-qidaink-cursor_effects@latest/images/springyEmoji.png"  ></td>
     </tr>
 </table>
 
